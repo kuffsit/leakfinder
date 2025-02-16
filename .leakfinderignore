@@ -1,0 +1,4 @@
+leakfinder_report.*
+patterns.yaml
+*.pyc
+__pycache__
